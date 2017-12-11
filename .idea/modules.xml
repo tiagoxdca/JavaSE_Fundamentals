@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaSE8fundamentals.iml" filepath="$PROJECT_DIR$/JavaSE8fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod3/mod3.iml" filepath="$PROJECT_DIR$/mod3/mod3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod7/mod7.iml" filepath="$PROJECT_DIR$/mod7/mod7.iml" />
+    </modules>
+  </component>
+</project>
