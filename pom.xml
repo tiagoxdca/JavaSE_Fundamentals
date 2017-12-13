@@ -26,6 +26,7 @@
     <modules>
         <module>mod3</module>
         <module>mod7</module>
+        <module>mod9</module>
     </modules>
 
     <dependencyManagement>

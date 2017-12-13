@@ -7,15 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mod3" />
-        <module name="mod7" />
-        <module name="mod9" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="JavaSE8fundamentals" target="1.8" />
-      <module name="mod3" target="1.8" />
-      <module name="mod7" target="1.8" />
-      <module name="mod9" target="1.8" />
+      <module name="mod3" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
